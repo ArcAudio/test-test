@@ -1,0 +1,12 @@
+body {
+    padding: 50px;
+    background-color: #c2c2c2;
+    font-family: sans-serif;
+  }
+  #container {
+    display: flex;
+    justify-content: center;
+    background-color: #818181;
+    padding: 50px;
+  }
+
